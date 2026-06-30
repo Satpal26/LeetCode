@@ -25,4 +25,13 @@
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satpal26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Satpal26/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Math
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Satpal26/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Satpal26/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
