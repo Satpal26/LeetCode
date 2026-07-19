@@ -8,6 +8,7 @@
 | [0860-lemonade-change](https://github.com/Satpal26/LeetCode/tree/master/0860-lemonade-change) |
 | [1288-remove-covered-intervals](https://github.com/Satpal26/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Satpal26/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satpal26/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satpal26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Satpal26/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satpal26/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
