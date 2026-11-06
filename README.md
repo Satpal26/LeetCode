@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0860-lemonade-change](https://github.com/Satpal26/LeetCode/tree/master/0860-lemonade-change) |
 | [1288-remove-covered-intervals](https://github.com/Satpal26/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Satpal26/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -62,4 +63,16 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satpal26/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
