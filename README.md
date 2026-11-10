@@ -7,6 +7,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0860-lemonade-change](https://github.com/Satpal26/LeetCode/tree/master/0860-lemonade-change) |
+| [1049-last-stone-weight-ii](https://github.com/Satpal26/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1288-remove-covered-intervals](https://github.com/Satpal26/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Satpal26/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satpal26/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -67,12 +68,15 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Satpal26/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Satpal26/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satpal26/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Satpal26/LeetCode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
